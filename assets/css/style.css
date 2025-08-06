@@ -1,0 +1,54 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cor-fonte-padrao{
+    color:black !important;
+}
+.fonte-desconto{
+    color:rgb(133, 133, 133) !important;
+}
+.fonte-produto-descricao{
+    color:rgb(49, 49, 49) !important;
+}
+
+.cor-bg-principal{
+    background-color: rgb(255, 145, 0) !important;
+}
+
+.botao-adiciona-carrinho{
+    background-color: rgb(255, 145, 0) !important;
+}
+
+.cor-borda-primaria{
+    border: 1px solid black !important;
+}
+
+.menu-selecionado{
+    background-color: rgba(248, 225, 123, 0.459);
+    font-weight: bolder;
+}
+
+.cor-menu{
+    background-color: rgb(255, 255, 255);
+}
+
+.cor-bg-main{
+    background: rgb(235, 235, 235);
+}
+
+.bg-main{
+    background: rgb(235, 235, 235);
+}
+
+.produtos-principal1, .produtos-principal2, .produtos-principal3, .produtos-principal4{
+    background: rgba(255, 255, 255);
+}
+
+.conteudo-produto, .descricao-produto-div{
+    background-color: rgb(255, 255, 255);
+}
